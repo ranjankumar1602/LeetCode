@@ -34,7 +34,6 @@ class FindElements {
         return visited.contains(target);
     }
 }
-
 /**
  * Your FindElements object will be instantiated and called as such:
  * FindElements obj = new FindElements(root);
