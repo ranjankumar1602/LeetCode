@@ -27,7 +27,7 @@ class Solution {
         int currL = Math.max(leftL, rightL);
         deepLevel = Math.max(deepLevel, currL);
 
-        if(leftL == deepLevel && rightL = deepLevel) {
+        if(leftL == deepLevel && rightL == deepLevel) {
             ans = root;
         }
 
